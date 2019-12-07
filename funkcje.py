@@ -11,3 +11,9 @@ def upper(y):
     txt = y
     x = txt.upper()
     return x
+
+
+def title(s):
+    txt = s
+    x= txt.title()
+    return x
