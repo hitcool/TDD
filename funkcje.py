@@ -1,8 +1,13 @@
-
+#
+# def upper():
+#
+#     txt = "Hello"
+#     x = txt.upper()
+#     return x
 
 # kalkulator
-def upper():
+def upper(y):
 
-    txt = "Hello"
+    txt = y
     x = txt.upper()
     return x
