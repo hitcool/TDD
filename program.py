@@ -1,4 +1,4 @@
-# tworze metode
+# tworzymy metode
 def zwroc_100():
     return 100
 
@@ -6,10 +6,10 @@ def zwroc_parametr(a):
     return a
 
 def hello():
-    # print("Hello Test Driven Development")
     b = 'Hello Test Driven Development'
     return b
 
+# --------------------------------------------------
 # kalkulator
 def calc_add(a,b):
     # print ('podaj a'); a = input()
